@@ -4,7 +4,12 @@
     padding: 40px;
   }
 
-
+  .page {
+    display: flex;
+    flex-direction: column;
+    margin: unset;
+    overflow: auto;
+  }
 
   .greetings{
     justify-content: center;
@@ -32,7 +37,8 @@
     gap: 1rem;
     justify-content: center;
     list-style-type: none;
-    margin-top: 24px;
+    margin-top: 14px;
+    padding-bottom: 2px;
   }
 
   .button {
@@ -40,13 +46,7 @@
     margin-top: 100px;
     justify-content: center;
     display: flex;
-  }
-
-  .page {
-    display: flex;
-    flex-direction: column;
-    margin: unset;
-    overflow: auto;
+    padding-bottom: 10px;
   }
 
   .headline {
@@ -60,8 +60,10 @@
     background-size: cover;
     overflow-y: auto;
   }
+
   .background-image {
     width: 100%;
+    position: absolute;
   }
 
 
