@@ -1,16 +1,14 @@
-# Portfolio-setup-and-mobile-first
+# Philemon-portfolio
 <a name="readme-top"></a>
 
 <div align="center">
 
- # Kieng Philemon
+# Philemon Kieng
+  <br/>
 
-  <h3><b>Kieng Philemon portfolio</b></h3>
+  <h3><b>Portfolio: finish mobile version</b></h3>
 
 </div>
-
-<a name="readme-top"></a>
-
 
 # 📗 Table of Contents
 
@@ -25,17 +23,21 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# Hello Microverse
-This project is all about creating a portfolio template. No complex coding is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
+
+# 📖 essie-portfolio
+
+
+> This project is a Philemon-portfolio repository. No complex coding is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!
+
 1- HTML
 2- css
 3- linters
@@ -44,34 +46,32 @@ This project is all about creating a portfolio template. No complex coding is re
 
 ### Tech Stack <a name="tech-stack"></a>
 
+ 
+
 <details>
-  <summary>Client</summary>
-  <ul>
+<summary>Client</summary>
+ <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
-
 - added index.HTML
 - added Style.CSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [] coming soon
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Key Features <a name="key-features"></a>
+- added index.HTML
+- added Style.CSS
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 
 To get a local copy up and running, follow these steps.
@@ -79,7 +79,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
 
 1- web browser
 2- git-syn
@@ -91,8 +90,7 @@ Clone this repository to your desired folder:
 
 Run this command:
   cd my-folder
-
-git clone https://github.com/KiengPhyl/Philemon-portfolio.git
+  git clone https://github.com/KiengPhyl/Portfolio-setup-and-mobile-first.git
 
 ### Install
 
@@ -110,6 +108,8 @@ Run this command:
 
 To run the project, execute the following command:
 
+Example command:
+open index.html using the live server
 
 
 ### Run tests
@@ -118,25 +118,25 @@ To run tests, run the following command:
 
 []comming soon
 
-
 ### Deployment
 
 You can deploy this project using:
 
 []comming soon
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Kieng Philemon
+
+## 👥 Author <a name="authors"></a>
 
 
+👤 **Author1**
 
-## 👥 Authors <a name="authors"></a>
-
+- GitHub: [@githubhandle](https://github.com/KiengPhyl/Portfolio-setup-and-mobile-first.git)
+- Twitter: [@twitterhandle]()
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/phylah-kieng-949520120/)
-- GitHub: [@githubhandle](https://github.com/KiengPhyl/Hello-world.git)
-- Twitter:[https://twitter.com/kieng_philemon]
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ Kieng Philemon
 
 - [ ] add a header
 - [ ] add footer
-- [ ] add more styeling
+- [ ] add more styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,12 +161,10 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 
-
-If you like this project just give me a star
+If you like this project give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +172,8 @@ If you like this project just give me a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microvers and my coding partners
+
+I would like to thank the Microverse team and my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
