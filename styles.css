@@ -237,3 +237,42 @@ h3 {
   color: #36b37f;
   flex-wrap: wrap;
 }
+
+media li {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.text-container ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  gap: 0.5rem;
+  padding: 20px 0;
+}
+
+.text-container ul li {
+  color: #3a4a42;
+  background: #ebf0ee;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.holder-text1 img {
+  width: 100px;
+  height: 100px;
+}
+
+.about-p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  margin: 20px 15px;
+  color: #172b4d;
+}
