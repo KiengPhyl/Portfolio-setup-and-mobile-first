@@ -292,13 +292,6 @@ h3 {
   text-align: start;
 }
 
-.placeholder-container {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  padding: 10px;
-}
-
 .placeholder-box {
   display: flex;
   flex-direction: column;
@@ -310,27 +303,6 @@ h3 {
   object-fit: cover;
   object-position: center;
   border-radius: 12px 12px 0 0;
-}
-
-.header2 {
-  text-align: center;
-  color: #3a4a42;
-  padding-top: 15px;
-  font-weight: 600;
-  font-size: 24px;
-}
-
-.button-text {
-  outline: none;
-  border: none;
-  background: #36b37f;
-  color: #ebf0ee;
-  border-radius: 4px;
-  width: 122px;
-  height: 48px;
-  font-size: medium;
-  margin-bottom: 36px;
-  transition-property: all;
 }
 
 .button-text:hover {
