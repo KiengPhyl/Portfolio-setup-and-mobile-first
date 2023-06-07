@@ -332,11 +332,6 @@ ul {
   grid: 1.5rem;
 }
 
-.text {
-  align-items: center;
-  display: flex;
-}
-
 .button-resume {
   outline: none;
   border: none;
