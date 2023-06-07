@@ -270,17 +270,6 @@ h3 {
   color: #172b4d;
 }
 
-.works {
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  text-align: center;
-  color: #172b4d;
-  padding-top: 40px;
-}
-
 .categories {
   display: flex;
   justify-content: center;
@@ -396,77 +385,12 @@ h3 {
   justify-content: flex-end;
 }
 
-h3 {
-  text-align: center;
-  color: #172b4d;
-  padding: 40px;
-  font-size: 40px;
-}
-
-.h6 {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 32px;
-  text-align: center;
-  color: #42526e;
-}
-
-.square {
-  display: flex;
-  justify-content: flex-end;
-}
-
-.button2 {
-  display: flex;
-  justify-content: center;
-  padding: 12px;
-}
-
 .button2:hover {
   box-shadow: 0 8px 16px rgba(54, 179, 127, 0.24);
 }
 
 .button2:focus {
   background: #008552;
-}
-
-.text-aline {
-  display: flex;
-  justify-content: flex-end;
-}
-
-.section6 {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.quote {
-  position: relative;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-}
-
-.Language {
-  display: flex;
-  justify-content: center;
-  color: #344563;
-  font-size: xx-large;
-  margin-top: -28px;
-  margin-bottom: 25px;
-}
-
-.media {
-  display: flex;
-  gap: 8px;
-  justify-content: center;
-  list-style-type: none;
-  color: #36b37f;
-  flex-wrap: wrap;
 }
 
 .media li {
