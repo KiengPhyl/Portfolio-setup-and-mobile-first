@@ -349,12 +349,6 @@ ul {
   transition-property: all;
 }
 
-.plane {
-  display: flex;
-  top: -60px;
-  position: relative;
-}
-
 .desktop-plane {
   display: none;
 }
